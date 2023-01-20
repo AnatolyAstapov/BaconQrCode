@@ -4,7 +4,7 @@
     "license" : "BSD-2-Clause",
     "homepage": "https://github.com/slava-basko/BaconQrCode",
     "require": {
-        "php": "^5",
+        "php": "^5|^7.2",
         "ext-iconv": "*",
         "slava-basko/enum": "1.0.0",
         "symfony/polyfill-php70": "^1"
