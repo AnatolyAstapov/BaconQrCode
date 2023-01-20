@@ -1,8 +1,8 @@
 {
-    "name": "slava-basko/bacon-qr-code",
+    "name": "anatoly-astapov/bacon-qr-code",
     "description": "BaconQrCode is a QR code generator for PHP.",
     "license" : "BSD-2-Clause",
-    "homepage": "https://github.com/slava-basko/BaconQrCode",
+    "homepage": "https://github.com/AnatolyAstapov/BaconQrCode",
     "require": {
         "php": "^5",
         "ext-iconv": "*",
